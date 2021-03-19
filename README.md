@@ -1,2 +1,2 @@
 # ReviewSession
-Added Basescripts and KwikAPI 
+Developing code for kwikapi-django 
