@@ -7,7 +7,7 @@ class Calc(BaseScript):
     def add(self):
         """
 
-        :return: a+b
+        :return:Addition of two values
         """
         print(self.A + self.args.b)
 
